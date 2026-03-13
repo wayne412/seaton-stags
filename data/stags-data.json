@@ -1,0 +1,1703 @@
+{
+  "players": [
+    {
+      "name": "Archie",
+      "squadNumber": null,
+      "position": "Goalkeeper",
+      "active": true,
+      "id": "a477491b-22c3-4b4b-a141-9e15ac4af900"
+    },
+    {
+      "name": "Jack",
+      "squadNumber": null,
+      "position": "Defender",
+      "active": true,
+      "id": "da683bc0-69eb-425c-ae4c-5fa19005f888"
+    },
+    {
+      "name": "Joshua",
+      "squadNumber": null,
+      "position": "Defender",
+      "active": true,
+      "id": "96c5e039-a97d-483a-a7dc-5af050c910ab"
+    },
+    {
+      "name": "Byron",
+      "squadNumber": null,
+      "position": "Defender",
+      "active": true,
+      "id": "a4dd4f26-e7ad-47f7-add7-ffbd8aaf0924"
+    },
+    {
+      "name": "Isaac",
+      "squadNumber": null,
+      "position": "Defender",
+      "active": true,
+      "id": "32ca51df-b9ba-48a5-88fa-af175d2a7269"
+    },
+    {
+      "name": "Oliver",
+      "squadNumber": null,
+      "position": "Midfielder",
+      "active": true,
+      "id": "8b97d621-688d-4c5f-831b-5a0b8a857133"
+    },
+    {
+      "name": "Clark",
+      "squadNumber": null,
+      "position": "Midfielder",
+      "active": true,
+      "id": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3"
+    },
+    {
+      "name": "Ollie R",
+      "squadNumber": null,
+      "position": "Midfielder",
+      "active": true,
+      "id": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1"
+    },
+    {
+      "name": "Ollie C",
+      "squadNumber": null,
+      "position": "Midfielder",
+      "active": true,
+      "id": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1"
+    },
+    {
+      "name": "Dylan",
+      "squadNumber": null,
+      "position": "Defender",
+      "active": true,
+      "id": "48386fe2-f5fa-49e3-b0f3-d2509b4e1a34"
+    },
+    {
+      "name": "Sidney",
+      "squadNumber": null,
+      "position": "Midfielder",
+      "active": true,
+      "id": "a238fb7a-4bda-4863-a55d-a19e8b8ca059"
+    },
+    {
+      "name": "Harry",
+      "squadNumber": null,
+      "position": "Forward",
+      "active": true,
+      "id": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5"
+    }
+  ],
+  "matches": [
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-09-07",
+      "opponent": "Kader Rangers",
+      "venue": "Neutral",
+      "playerOfMatch": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "462a78c1-3818-4d88-90f7-b5b9421b4c8b",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "events": [
+        {
+          "matchId": "462a78c1-3818-4d88-90f7-b5b9421b4c8b",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "1st Half Kick Off",
+          "timestamp": "2026-03-13T08:11:33.621Z",
+          "id": "51f83b3a-a42a-474f-bd6a-33068e8a41d6"
+        },
+        {
+          "matchId": "462a78c1-3818-4d88-90f7-b5b9421b4c8b",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:11:40.418Z",
+          "id": "caba626c-1b10-4f29-b1c2-4a5c5829a900"
+        },
+        {
+          "matchId": "462a78c1-3818-4d88-90f7-b5b9421b4c8b",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "Half Time",
+          "timestamp": "2026-03-13T08:11:44.800Z",
+          "id": "63ccc417-cd53-487f-aac1-4740131cc24b"
+        },
+        {
+          "matchId": "462a78c1-3818-4d88-90f7-b5b9421b4c8b",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "2nd Half Kick Off",
+          "timestamp": "2026-03-13T08:11:47.268Z",
+          "id": "87bbcfa2-6f73-4759-858e-327e0d2d7ea8"
+        },
+        {
+          "matchId": "462a78c1-3818-4d88-90f7-b5b9421b4c8b",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "Full Time",
+          "timestamp": "2026-03-13T08:11:51.420Z",
+          "id": "08bc4f30-3970-4b72-bbaf-ffc9e7b3aa53"
+        },
+        {
+          "matchId": "462a78c1-3818-4d88-90f7-b5b9421b4c8b",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "Full Time",
+          "timestamp": "2026-03-13T08:13:01.901Z",
+          "id": "7e7fb377-a928-41a0-ba5f-4cd0c40d5d1b"
+        }
+      ],
+      "playerNotes": [
+        {
+          "playerId": "a477491b-22c3-4b4b-a141-9e15ac4af900",
+          "note": ""
+        },
+        {
+          "playerId": "a4dd4f26-e7ad-47f7-add7-ffbd8aaf0924",
+          "note": ""
+        },
+        {
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "note": ""
+        },
+        {
+          "playerId": "48386fe2-f5fa-49e3-b0f3-d2509b4e1a34",
+          "note": ""
+        },
+        {
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "note": ""
+        },
+        {
+          "playerId": "32ca51df-b9ba-48a5-88fa-af175d2a7269",
+          "note": ""
+        },
+        {
+          "playerId": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+          "note": ""
+        },
+        {
+          "playerId": "96c5e039-a97d-483a-a7dc-5af050c910ab",
+          "note": ""
+        },
+        {
+          "playerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "note": ""
+        },
+        {
+          "playerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "note": ""
+        },
+        {
+          "playerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": ""
+        },
+        {
+          "playerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-09-14",
+      "opponent": "Kader",
+      "venue": "Neutral",
+      "playerOfMatch": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+      "goalsFor": 0,
+      "goalsAgainst": 9,
+      "events": [
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "1st Half Kick Off",
+          "timestamp": "2026-03-13T08:13:18.173Z",
+          "id": "8ad2f97a-6f79-4238-bb69-d3522de4ebc8"
+        },
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:13:25.265Z",
+          "id": "c5d8aacd-a64c-4581-86d5-484a8e2c988f"
+        },
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:13:28.525Z",
+          "id": "bdf8e259-7d96-464f-8e1e-ee121c4632cb"
+        },
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:13:33.175Z",
+          "id": "9aa7ad2a-92a8-48f0-a2c4-fa966bc323fc"
+        },
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:13:36.071Z",
+          "id": "4cfe4cd6-dd51-43bf-a5de-0e989609d447"
+        },
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:13:38.927Z",
+          "id": "a6ffb613-4e42-4582-a9fc-b9791b73ae13"
+        },
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:13:42.887Z",
+          "id": "f5e7884b-1272-47fb-b2b6-7e2fe6f2fb8a"
+        },
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:13:46.609Z",
+          "id": "914c4724-c090-4c72-a674-f3b153a1b30b"
+        },
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:13:50.085Z",
+          "id": "dbbd8ef5-089b-4ee6-b9ac-adbcbd1bb00d"
+        },
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:13:53.322Z",
+          "id": "68e661d9-8aba-4727-8270-c9dc6eb2f9b8"
+        },
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "Half Time",
+          "timestamp": "2026-03-13T08:13:57.857Z",
+          "id": "6e37b962-e1ea-4627-a01c-6540e6d7151f"
+        },
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "2nd Half Kick Off",
+          "timestamp": "2026-03-13T08:14:00.998Z",
+          "id": "eaf763fb-81d8-4de1-85eb-34daae44d001"
+        },
+        {
+          "matchId": "cf8dda5b-b2bf-4129-b46f-25c0f884b831",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "Full Time",
+          "timestamp": "2026-03-13T08:14:06.188Z",
+          "id": "898197fd-4b03-495a-82e4-606cb18cf628"
+        }
+      ],
+      "playerNotes": [
+        {
+          "playerId": "a477491b-22c3-4b4b-a141-9e15ac4af900",
+          "note": ""
+        },
+        {
+          "playerId": "a4dd4f26-e7ad-47f7-add7-ffbd8aaf0924",
+          "note": ""
+        },
+        {
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "note": ""
+        },
+        {
+          "playerId": "48386fe2-f5fa-49e3-b0f3-d2509b4e1a34",
+          "note": ""
+        },
+        {
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "note": ""
+        },
+        {
+          "playerId": "32ca51df-b9ba-48a5-88fa-af175d2a7269",
+          "note": ""
+        },
+        {
+          "playerId": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+          "note": ""
+        },
+        {
+          "playerId": "96c5e039-a97d-483a-a7dc-5af050c910ab",
+          "note": ""
+        },
+        {
+          "playerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "note": ""
+        },
+        {
+          "playerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "note": ""
+        },
+        {
+          "playerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": ""
+        },
+        {
+          "playerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-09-21",
+      "opponent": "Wynyard",
+      "venue": "Neutral",
+      "playerOfMatch": "48386fe2-f5fa-49e3-b0f3-d2509b4e1a34",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "9a752111-55de-4593-8059-5319653e7296",
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "events": [
+        {
+          "matchId": "9a752111-55de-4593-8059-5319653e7296",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "1st Half Kick Off",
+          "timestamp": "2026-03-13T08:15:12.316Z",
+          "id": "f67d89bc-2066-4035-96c5-f2c61259f536"
+        },
+        {
+          "matchId": "9a752111-55de-4593-8059-5319653e7296",
+          "type": "Goal",
+          "playerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "assistPlayerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": "",
+          "timestamp": "2026-03-13T08:15:30.965Z",
+          "id": "6bee514b-cd39-4b69-ab32-9f104c61ec7e"
+        },
+        {
+          "matchId": "9a752111-55de-4593-8059-5319653e7296",
+          "type": "Goal",
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "assistPlayerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "note": "",
+          "timestamp": "2026-03-13T08:15:42.037Z",
+          "id": "643ff397-9f85-43e8-a281-d42fe4d6133c"
+        },
+        {
+          "matchId": "9a752111-55de-4593-8059-5319653e7296",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:15:52.031Z",
+          "id": "5672a3e9-adbc-4348-bf40-56e035d938f6"
+        },
+        {
+          "matchId": "9a752111-55de-4593-8059-5319653e7296",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:15:55.248Z",
+          "id": "1b4af553-c042-4700-b874-225933f46a89"
+        },
+        {
+          "matchId": "9a752111-55de-4593-8059-5319653e7296",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:15:57.565Z",
+          "id": "a843a1db-e6e7-4739-8a6a-fb43c4c490a3"
+        },
+        {
+          "matchId": "9a752111-55de-4593-8059-5319653e7296",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "Half Time",
+          "timestamp": "2026-03-13T08:15:59.569Z",
+          "id": "feb7a93c-d9f4-426f-ad1b-a9892aa8f9a5"
+        },
+        {
+          "matchId": "9a752111-55de-4593-8059-5319653e7296",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "2nd Half Kick Off",
+          "timestamp": "2026-03-13T08:16:02.085Z",
+          "id": "73d9b64f-9ce8-457a-8ed5-434f017223e2"
+        },
+        {
+          "matchId": "9a752111-55de-4593-8059-5319653e7296",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "Full Time",
+          "timestamp": "2026-03-13T08:16:04.206Z",
+          "id": "e96f9dbc-69c9-421e-925b-c85f37e3aea5"
+        }
+      ],
+      "playerNotes": [
+        {
+          "playerId": "a477491b-22c3-4b4b-a141-9e15ac4af900",
+          "note": ""
+        },
+        {
+          "playerId": "a4dd4f26-e7ad-47f7-add7-ffbd8aaf0924",
+          "note": ""
+        },
+        {
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "note": ""
+        },
+        {
+          "playerId": "48386fe2-f5fa-49e3-b0f3-d2509b4e1a34",
+          "note": ""
+        },
+        {
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "note": ""
+        },
+        {
+          "playerId": "32ca51df-b9ba-48a5-88fa-af175d2a7269",
+          "note": ""
+        },
+        {
+          "playerId": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+          "note": ""
+        },
+        {
+          "playerId": "96c5e039-a97d-483a-a7dc-5af050c910ab",
+          "note": ""
+        },
+        {
+          "playerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "note": ""
+        },
+        {
+          "playerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "note": ""
+        },
+        {
+          "playerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": ""
+        },
+        {
+          "playerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-10-05",
+      "opponent": "Riverside Juniors",
+      "venue": "Neutral",
+      "playerOfMatch": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "47eff9c6-8366-4117-8b75-1554c13c86bc",
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "events": [
+        {
+          "matchId": "47eff9c6-8366-4117-8b75-1554c13c86bc",
+          "type": "Goal",
+          "playerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-05T12:01:00.000Z",
+          "id": "dde6c00e-7dbc-4f11-bcf2-c34906cfeea0"
+        },
+        {
+          "matchId": "47eff9c6-8366-4117-8b75-1554c13c86bc",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-05T12:02:00.000Z",
+          "id": "894373eb-feba-49b6-bb68-f473b2641d76"
+        },
+        {
+          "matchId": "47eff9c6-8366-4117-8b75-1554c13c86bc",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-05T12:03:00.000Z",
+          "id": "67eb0d8c-8a69-4dff-9c26-f14e598f7a4d"
+        },
+        {
+          "matchId": "47eff9c6-8366-4117-8b75-1554c13c86bc",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-05T12:04:00.000Z",
+          "id": "e4802c51-740e-4ed0-898e-cb44e4149034"
+        }
+      ],
+      "playerNotes": []
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-10-12",
+      "opponent": "Darlington Utd",
+      "venue": "Neutral",
+      "playerOfMatch": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "cda0ff10-bab9-4b58-937e-5710d91d7ef6",
+      "goalsFor": 2,
+      "goalsAgainst": 8,
+      "events": [
+        {
+          "matchId": "cda0ff10-bab9-4b58-937e-5710d91d7ef6",
+          "type": "Goal",
+          "playerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "assistPlayerId": "a4dd4f26-e7ad-47f7-add7-ffbd8aaf0924",
+          "note": "",
+          "timestamp": "2025-10-12T12:01:00.000Z",
+          "id": "e8a612d3-d0cc-483b-a9af-ce42763c25b1"
+        },
+        {
+          "matchId": "cda0ff10-bab9-4b58-937e-5710d91d7ef6",
+          "type": "Goal",
+          "playerId": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+          "assistPlayerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "note": "",
+          "timestamp": "2025-10-12T12:02:00.000Z",
+          "id": "57055c50-2285-4067-b6db-babcfea68f6e"
+        },
+        {
+          "matchId": "cda0ff10-bab9-4b58-937e-5710d91d7ef6",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-12T12:03:00.000Z",
+          "id": "cddfb662-1c07-471f-9aef-f5931bc7ebfb"
+        },
+        {
+          "matchId": "cda0ff10-bab9-4b58-937e-5710d91d7ef6",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-12T12:04:00.000Z",
+          "id": "f8191336-8bc7-404d-8679-e51cca199ae1"
+        },
+        {
+          "matchId": "cda0ff10-bab9-4b58-937e-5710d91d7ef6",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-12T12:05:00.000Z",
+          "id": "86d825a1-6dfd-4371-8e23-81c795d4deb0"
+        },
+        {
+          "matchId": "cda0ff10-bab9-4b58-937e-5710d91d7ef6",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-12T12:06:00.000Z",
+          "id": "5e88a994-a13e-4878-bbad-52891e27ebcc"
+        },
+        {
+          "matchId": "cda0ff10-bab9-4b58-937e-5710d91d7ef6",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-12T12:07:00.000Z",
+          "id": "5ad577b1-4da0-4f0c-898c-0bd9d2ed2ac6"
+        },
+        {
+          "matchId": "cda0ff10-bab9-4b58-937e-5710d91d7ef6",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-12T12:08:00.000Z",
+          "id": "7aff133f-3e99-4ff3-bba8-930c28ee6820"
+        },
+        {
+          "matchId": "cda0ff10-bab9-4b58-937e-5710d91d7ef6",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-12T12:09:00.000Z",
+          "id": "329c1641-d0ed-4e42-a233-ddbbc69274f8"
+        },
+        {
+          "matchId": "cda0ff10-bab9-4b58-937e-5710d91d7ef6",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-12T12:10:00.000Z",
+          "id": "a810e469-9b3f-4e2a-a0d6-0925e89b432d"
+        }
+      ],
+      "playerNotes": []
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-10-19",
+      "opponent": "TIBS",
+      "venue": "Neutral",
+      "playerOfMatch": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "97b75854-1698-4199-9bf5-f3998f982c8a",
+      "goalsFor": 5,
+      "goalsAgainst": 3,
+      "events": [
+        {
+          "matchId": "97b75854-1698-4199-9bf5-f3998f982c8a",
+          "type": "Goal",
+          "playerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "assistPlayerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "note": "",
+          "timestamp": "2025-10-19T12:01:00.000Z",
+          "id": "d726b97e-7c53-41ed-8398-269836595b89"
+        },
+        {
+          "matchId": "97b75854-1698-4199-9bf5-f3998f982c8a",
+          "type": "Goal",
+          "playerId": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+          "assistPlayerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": "",
+          "timestamp": "2025-10-19T12:02:00.000Z",
+          "id": "ca38b612-12b2-4d3f-956d-41e0189fb9d3"
+        },
+        {
+          "matchId": "97b75854-1698-4199-9bf5-f3998f982c8a",
+          "type": "Goal",
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-19T12:03:00.000Z",
+          "id": "b27c3cf6-2307-4bbd-9b03-3af1180384ef"
+        },
+        {
+          "matchId": "97b75854-1698-4199-9bf5-f3998f982c8a",
+          "type": "Goal",
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-19T12:04:00.000Z",
+          "id": "cc481ebe-4584-448a-a6cf-e54ab24e45ee"
+        },
+        {
+          "matchId": "97b75854-1698-4199-9bf5-f3998f982c8a",
+          "type": "Goal",
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-19T12:05:00.000Z",
+          "id": "cf964637-8909-4d39-b0fc-12bef64dae7b"
+        },
+        {
+          "matchId": "97b75854-1698-4199-9bf5-f3998f982c8a",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-19T12:06:00.000Z",
+          "id": "5fffe386-8afd-4835-8e75-730516e7d004"
+        },
+        {
+          "matchId": "97b75854-1698-4199-9bf5-f3998f982c8a",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-19T12:07:00.000Z",
+          "id": "b486b4c0-9873-4af4-bd4d-624a39a4d09c"
+        },
+        {
+          "matchId": "97b75854-1698-4199-9bf5-f3998f982c8a",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-19T12:08:00.000Z",
+          "id": "e4ead24e-4727-48ae-b1be-ba6890db98f6"
+        }
+      ],
+      "playerNotes": []
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-10-26",
+      "opponent": "Whinney Banks",
+      "venue": "Neutral",
+      "playerOfMatch": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "1edadc08-710a-4cbc-a8ff-c9351177dd1c",
+      "goalsFor": 1,
+      "goalsAgainst": 5,
+      "events": [
+        {
+          "matchId": "1edadc08-710a-4cbc-a8ff-c9351177dd1c",
+          "type": "Goal",
+          "playerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-26T12:01:00.000Z",
+          "id": "05d996de-50c9-421e-a8b5-c6a69e0987e2"
+        },
+        {
+          "matchId": "1edadc08-710a-4cbc-a8ff-c9351177dd1c",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-26T12:02:00.000Z",
+          "id": "1d946fc2-3807-40da-9313-23a9245f38b4"
+        },
+        {
+          "matchId": "1edadc08-710a-4cbc-a8ff-c9351177dd1c",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-26T12:03:00.000Z",
+          "id": "d2f80e45-a787-4d9b-a959-490be4e964ad"
+        },
+        {
+          "matchId": "1edadc08-710a-4cbc-a8ff-c9351177dd1c",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-26T12:04:00.000Z",
+          "id": "186b5bdf-b97d-42da-a234-a1d8911e525a"
+        },
+        {
+          "matchId": "1edadc08-710a-4cbc-a8ff-c9351177dd1c",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-26T12:05:00.000Z",
+          "id": "b71049c9-121e-432b-abc0-56a328e1a3e6"
+        },
+        {
+          "matchId": "1edadc08-710a-4cbc-a8ff-c9351177dd1c",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-10-26T12:06:00.000Z",
+          "id": "96a48c59-c6fa-4a9d-b8e7-f9336c86782b"
+        }
+      ],
+      "playerNotes": []
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-11-02",
+      "opponent": "Great Ayton",
+      "venue": "Neutral",
+      "playerOfMatch": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "40eb1961-a4a5-4ad8-b802-238fdf8fbb62",
+      "goalsFor": 5,
+      "goalsAgainst": 2,
+      "events": [
+        {
+          "matchId": "40eb1961-a4a5-4ad8-b802-238fdf8fbb62",
+          "type": "Goal",
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "assistPlayerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "note": "",
+          "timestamp": "2025-11-02T12:01:00.000Z",
+          "id": "8200d30f-ebc9-4c32-9eb8-e209e663873c"
+        },
+        {
+          "matchId": "40eb1961-a4a5-4ad8-b802-238fdf8fbb62",
+          "type": "Goal",
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "assistPlayerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "note": "",
+          "timestamp": "2025-11-02T12:02:00.000Z",
+          "id": "54e98ef0-915c-4ade-ba00-2df0f971db3a"
+        },
+        {
+          "matchId": "40eb1961-a4a5-4ad8-b802-238fdf8fbb62",
+          "type": "Goal",
+          "playerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-02T12:03:00.000Z",
+          "id": "6b496555-b77c-4e83-a2e5-c9f156eb1eb3"
+        },
+        {
+          "matchId": "40eb1961-a4a5-4ad8-b802-238fdf8fbb62",
+          "type": "Goal",
+          "playerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-02T12:04:00.000Z",
+          "id": "abf806e7-6280-4385-ad4d-6a5e2ed9ffac"
+        },
+        {
+          "matchId": "40eb1961-a4a5-4ad8-b802-238fdf8fbb62",
+          "type": "Goal",
+          "playerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-02T12:05:00.000Z",
+          "id": "b68db83d-503b-43a4-8d08-9eaad7dc8729"
+        },
+        {
+          "matchId": "40eb1961-a4a5-4ad8-b802-238fdf8fbb62",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-02T12:06:00.000Z",
+          "id": "91a82383-04bc-4097-aff0-cf22b776d0b5"
+        },
+        {
+          "matchId": "40eb1961-a4a5-4ad8-b802-238fdf8fbb62",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-02T12:07:00.000Z",
+          "id": "7d93c4da-627c-47f3-be70-95365e3b25fb"
+        }
+      ],
+      "playerNotes": []
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-11-09",
+      "opponent": "Kader",
+      "venue": "Neutral",
+      "playerOfMatch": "96c5e039-a97d-483a-a7dc-5af050c910ab",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "1c886760-60e3-4306-bb65-fdf2391666e2",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "events": [
+        {
+          "matchId": "1c886760-60e3-4306-bb65-fdf2391666e2",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-09T12:02:00.000Z",
+          "id": "13cae47d-7f00-4a11-ad4e-3df0e9305524"
+        },
+        {
+          "matchId": "1c886760-60e3-4306-bb65-fdf2391666e2",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-09T12:03:00.000Z",
+          "id": "f6698f2a-24e4-4791-aa76-14c4ddfd7399"
+        }
+      ],
+      "playerNotes": []
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-11-16",
+      "opponent": "Darlington Spraire",
+      "venue": "Neutral",
+      "playerOfMatch": "96c5e039-a97d-483a-a7dc-5af050c910ab",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "b2dc6ccd-6f46-4f58-8faa-58b6d65392e1",
+      "goalsFor": 6,
+      "goalsAgainst": 0,
+      "events": [
+        {
+          "matchId": "b2dc6ccd-6f46-4f58-8faa-58b6d65392e1",
+          "type": "Goal",
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "assistPlayerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "note": "",
+          "timestamp": "2025-11-16T12:01:00.000Z",
+          "id": "0fbb6cf1-2b23-4853-9852-cc00a4821408"
+        },
+        {
+          "matchId": "b2dc6ccd-6f46-4f58-8faa-58b6d65392e1",
+          "type": "Goal",
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "assistPlayerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "note": "",
+          "timestamp": "2025-11-16T12:02:00.000Z",
+          "id": "fdf4fc83-9093-4f2a-8c5c-8663872ca0c7"
+        },
+        {
+          "matchId": "b2dc6ccd-6f46-4f58-8faa-58b6d65392e1",
+          "type": "Goal",
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "assistPlayerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "note": "",
+          "timestamp": "2025-11-16T12:03:00.000Z",
+          "id": "58588baa-870e-4d55-9946-e8f5dd845c9f"
+        },
+        {
+          "matchId": "b2dc6ccd-6f46-4f58-8faa-58b6d65392e1",
+          "type": "Goal",
+          "playerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "assistPlayerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "note": "",
+          "timestamp": "2025-11-16T12:04:00.000Z",
+          "id": "5feac0ef-a748-4429-b6b3-f876f8a86d38"
+        },
+        {
+          "matchId": "b2dc6ccd-6f46-4f58-8faa-58b6d65392e1",
+          "type": "Goal",
+          "playerId": "96c5e039-a97d-483a-a7dc-5af050c910ab",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-16T12:05:00.000Z",
+          "id": "715a39da-3831-49cc-9141-fe2943bcff92"
+        },
+        {
+          "matchId": "b2dc6ccd-6f46-4f58-8faa-58b6d65392e1",
+          "type": "Goal",
+          "playerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:42:44.004Z",
+          "id": "a626aa23-e2a7-433c-a3f1-1a36da75fd2b"
+        },
+        {
+          "matchId": "b2dc6ccd-6f46-4f58-8faa-58b6d65392e1",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "Full Time",
+          "timestamp": "2026-03-13T08:42:55.586Z",
+          "id": "f609e554-4415-4b43-8a7b-9a01376f5f9e"
+        }
+      ],
+      "playerNotes": [
+        {
+          "playerId": "a477491b-22c3-4b4b-a141-9e15ac4af900",
+          "note": ""
+        },
+        {
+          "playerId": "a4dd4f26-e7ad-47f7-add7-ffbd8aaf0924",
+          "note": ""
+        },
+        {
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "note": ""
+        },
+        {
+          "playerId": "48386fe2-f5fa-49e3-b0f3-d2509b4e1a34",
+          "note": ""
+        },
+        {
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "note": ""
+        },
+        {
+          "playerId": "32ca51df-b9ba-48a5-88fa-af175d2a7269",
+          "note": ""
+        },
+        {
+          "playerId": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+          "note": ""
+        },
+        {
+          "playerId": "96c5e039-a97d-483a-a7dc-5af050c910ab",
+          "note": ""
+        },
+        {
+          "playerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "note": ""
+        },
+        {
+          "playerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "note": ""
+        },
+        {
+          "playerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": ""
+        },
+        {
+          "playerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-11-23",
+      "opponent": "Great Ayton",
+      "venue": "Neutral",
+      "playerOfMatch": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+      "goalsFor": 11,
+      "goalsAgainst": 2,
+      "events": [
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal",
+          "playerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "assistPlayerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "note": "",
+          "timestamp": "2025-11-23T12:01:00.000Z",
+          "id": "bbc924b6-c1dc-42c0-a384-21617db2da0b"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal",
+          "playerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "assistPlayerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": "",
+          "timestamp": "2025-11-23T12:02:00.000Z",
+          "id": "1dc1e36b-d3ff-4d88-915d-35a2839acec1"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal",
+          "playerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "assistPlayerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "note": "",
+          "timestamp": "2025-11-23T12:03:00.000Z",
+          "id": "13ca6707-0aaf-4767-9f4d-f0e75389f578"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal",
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-23T12:04:00.000Z",
+          "id": "ebbae322-270d-4208-b177-9a632b880d96"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal",
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-23T12:05:00.000Z",
+          "id": "09f0439c-41ac-4d58-9148-5a844b74f029"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal",
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-23T12:06:00.000Z",
+          "id": "9795d716-54a4-40a7-a832-407d15c955f8"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal",
+          "playerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-23T12:07:00.000Z",
+          "id": "f7a4c1f1-f52f-4406-9749-5dc609aa4a98"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal",
+          "playerId": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-23T12:08:00.000Z",
+          "id": "eb66ef45-7ac0-4a2c-9007-01ee608f2400"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal",
+          "playerId": "96c5e039-a97d-483a-a7dc-5af050c910ab",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-23T12:09:00.000Z",
+          "id": "8fcdc568-49eb-4a1a-9b43-9b6c8e806c79"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-23T12:10:00.000Z",
+          "id": "4f2ee614-4357-44e3-8984-4c694cfc0c74"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-11-23T12:11:00.000Z",
+          "id": "32b07da8-cb5d-492a-b1a7-eaeb68764ede"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal",
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:49:44.785Z",
+          "id": "324b6572-f6bb-458e-8a17-d455b50c51d6"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Goal",
+          "playerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-13T08:49:53.977Z",
+          "id": "1fba8ad4-42a0-4645-a404-c51eb71a7ead"
+        },
+        {
+          "matchId": "134a2cec-b32b-4524-91aa-158f2f38e3b4",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "Full Time",
+          "timestamp": "2026-03-13T08:50:03.619Z",
+          "id": "ad9590b2-ed83-494c-8db6-512776e876cf"
+        }
+      ],
+      "playerNotes": [
+        {
+          "playerId": "a477491b-22c3-4b4b-a141-9e15ac4af900",
+          "note": ""
+        },
+        {
+          "playerId": "a4dd4f26-e7ad-47f7-add7-ffbd8aaf0924",
+          "note": ""
+        },
+        {
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "note": ""
+        },
+        {
+          "playerId": "48386fe2-f5fa-49e3-b0f3-d2509b4e1a34",
+          "note": ""
+        },
+        {
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "note": ""
+        },
+        {
+          "playerId": "32ca51df-b9ba-48a5-88fa-af175d2a7269",
+          "note": ""
+        },
+        {
+          "playerId": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+          "note": ""
+        },
+        {
+          "playerId": "96c5e039-a97d-483a-a7dc-5af050c910ab",
+          "note": ""
+        },
+        {
+          "playerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "note": ""
+        },
+        {
+          "playerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "note": ""
+        },
+        {
+          "playerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": ""
+        },
+        {
+          "playerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-12-07",
+      "opponent": "TIBS",
+      "venue": "Neutral",
+      "playerOfMatch": "a477491b-22c3-4b4b-a141-9e15ac4af900",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "e8d2fc5c-e02b-4792-90d9-6d273fe87d21",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "events": [
+        {
+          "matchId": "e8d2fc5c-e02b-4792-90d9-6d273fe87d21",
+          "type": "Goal",
+          "playerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "assistPlayerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": "",
+          "timestamp": "2025-12-07T12:01:00.000Z",
+          "id": "5332ccbc-d392-4306-9e56-c6e943ef857b"
+        },
+        {
+          "matchId": "e8d2fc5c-e02b-4792-90d9-6d273fe87d21",
+          "type": "Goal",
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "assistPlayerId": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+          "note": "",
+          "timestamp": "2025-12-07T12:02:00.000Z",
+          "id": "a97a2f89-e998-43bd-add3-db642e82400c"
+        }
+      ],
+      "playerNotes": []
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2025-12-14",
+      "opponent": "Darlington Utd",
+      "venue": "Away",
+      "playerOfMatch": "a477491b-22c3-4b4b-a141-9e15ac4af900",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "dbb8b442-121c-497f-b110-4ef99d66bde8",
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "events": [
+        {
+          "matchId": "dbb8b442-121c-497f-b110-4ef99d66bde8",
+          "type": "Goal",
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "assistPlayerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "note": "",
+          "timestamp": "2025-12-14T12:01:00.000Z",
+          "id": "51b47723-c2eb-4608-b5c2-c14afdcff972"
+        },
+        {
+          "matchId": "dbb8b442-121c-497f-b110-4ef99d66bde8",
+          "type": "Goal",
+          "playerId": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-12-14T12:02:00.000Z",
+          "id": "519c4cad-9393-4867-894a-083332edf08d"
+        },
+        {
+          "matchId": "dbb8b442-121c-497f-b110-4ef99d66bde8",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-12-14T12:03:00.000Z",
+          "id": "cec6bc97-822d-457b-90c3-5fee7dcf3622"
+        },
+        {
+          "matchId": "dbb8b442-121c-497f-b110-4ef99d66bde8",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-12-14T12:04:00.000Z",
+          "id": "19c0e8f9-6e48-490c-a3bc-667bdec23a0c"
+        },
+        {
+          "matchId": "dbb8b442-121c-497f-b110-4ef99d66bde8",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2025-12-14T12:05:00.000Z",
+          "id": "14c94f10-5636-46ac-a651-88d60a46c13b"
+        }
+      ],
+      "playerNotes": []
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2026-01-18",
+      "opponent": "Kader Raiders",
+      "venue": "Neutral",
+      "playerOfMatch": "48386fe2-f5fa-49e3-b0f3-d2509b4e1a34",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "894f5964-e2a6-474e-a077-f10eaba726b5",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "events": [
+        {
+          "matchId": "894f5964-e2a6-474e-a077-f10eaba726b5",
+          "type": "Goal",
+          "playerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "assistPlayerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "note": "",
+          "timestamp": "2026-01-18T12:01:00.000Z",
+          "id": "10a96f7c-40d4-469f-9047-f0b83fd4e71f"
+        },
+        {
+          "matchId": "894f5964-e2a6-474e-a077-f10eaba726b5",
+          "type": "Goal",
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-01-18T12:02:00.000Z",
+          "id": "06d0b0b0-bef1-4138-b515-650c0cbe14ea"
+        },
+        {
+          "matchId": "894f5964-e2a6-474e-a077-f10eaba726b5",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-01-18T12:03:00.000Z",
+          "id": "bbb7e5c1-057c-4338-9097-ceee500d86dc"
+        }
+      ],
+      "playerNotes": []
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2026-02-22",
+      "opponent": "Whinney banks",
+      "venue": "Home",
+      "playerOfMatch": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "092aaf4d-81cf-4d54-865a-24563d0f698c",
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "events": [
+        {
+          "matchId": "092aaf4d-81cf-4d54-865a-24563d0f698c",
+          "type": "Goal",
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "assistPlayerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "note": "",
+          "timestamp": "2026-02-22T12:01:00.000Z",
+          "id": "5914f980-1a97-4872-8db6-84268211ff73"
+        },
+        {
+          "matchId": "092aaf4d-81cf-4d54-865a-24563d0f698c",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-02-22T12:02:00.000Z",
+          "id": "83dd0707-1fc2-44c2-8292-f0e51cfdc749"
+        },
+        {
+          "matchId": "092aaf4d-81cf-4d54-865a-24563d0f698c",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-02-22T12:03:00.000Z",
+          "id": "7e61d86d-35a8-4618-8690-caefb5f23730"
+        },
+        {
+          "matchId": "092aaf4d-81cf-4d54-865a-24563d0f698c",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-02-22T12:04:00.000Z",
+          "id": "43d96c62-9c1a-4113-bfd0-e40ed191d5ba"
+        },
+        {
+          "matchId": "092aaf4d-81cf-4d54-865a-24563d0f698c",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-02-22T12:05:00.000Z",
+          "id": "98c487fc-9415-4ef0-a74e-db024b983781"
+        },
+        {
+          "matchId": "092aaf4d-81cf-4d54-865a-24563d0f698c",
+          "type": "Note",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "Full Time",
+          "timestamp": "2026-03-13T09:07:57.006Z",
+          "id": "46a2eb90-f6e5-4510-8c71-4f1aa2fd0011"
+        }
+      ],
+      "playerNotes": [
+        {
+          "playerId": "a477491b-22c3-4b4b-a141-9e15ac4af900",
+          "note": ""
+        },
+        {
+          "playerId": "a4dd4f26-e7ad-47f7-add7-ffbd8aaf0924",
+          "note": ""
+        },
+        {
+          "playerId": "45654a34-5db5-41ef-9dd3-bbf9d1d06ea3",
+          "note": ""
+        },
+        {
+          "playerId": "48386fe2-f5fa-49e3-b0f3-d2509b4e1a34",
+          "note": ""
+        },
+        {
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "note": ""
+        },
+        {
+          "playerId": "32ca51df-b9ba-48a5-88fa-af175d2a7269",
+          "note": ""
+        },
+        {
+          "playerId": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+          "note": ""
+        },
+        {
+          "playerId": "96c5e039-a97d-483a-a7dc-5af050c910ab",
+          "note": ""
+        },
+        {
+          "playerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "note": ""
+        },
+        {
+          "playerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "note": ""
+        },
+        {
+          "playerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": ""
+        },
+        {
+          "playerId": "a238fb7a-4bda-4863-a55d-a19e8b8ca059",
+          "note": ""
+        }
+      ],
+      "matchType": "League"
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2026-01-25",
+      "opponent": "North Ormesby",
+      "venue": "Neutral",
+      "matchType": "Cup",
+      "playerOfMatch": "none",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "2fe15d3b-faf6-45d8-ab7e-44c71837d618",
+      "goalsFor": 1,
+      "goalsAgainst": 6,
+      "events": [
+        {
+          "matchId": "2fe15d3b-faf6-45d8-ab7e-44c71837d618",
+          "type": "Goal",
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "assistPlayerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": "",
+          "timestamp": "2026-01-25T12:01:00.000Z",
+          "id": "a226b492-9bc7-41e9-9a5d-0f441cf1528c"
+        },
+        {
+          "matchId": "2fe15d3b-faf6-45d8-ab7e-44c71837d618",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-01-25T12:02:00.000Z",
+          "id": "28b8a332-53e2-4c2b-ba83-21908c99a25d"
+        },
+        {
+          "matchId": "2fe15d3b-faf6-45d8-ab7e-44c71837d618",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-01-25T12:03:00.000Z",
+          "id": "ce6a185b-a77e-41fc-9e9f-224049dbd458"
+        },
+        {
+          "matchId": "2fe15d3b-faf6-45d8-ab7e-44c71837d618",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-01-25T12:04:00.000Z",
+          "id": "4157ff9f-9522-4da7-add7-41ad142e2b6b"
+        },
+        {
+          "matchId": "2fe15d3b-faf6-45d8-ab7e-44c71837d618",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-01-25T12:05:00.000Z",
+          "id": "dff79a01-d005-4bd0-8be4-e5298be91327"
+        },
+        {
+          "matchId": "2fe15d3b-faf6-45d8-ab7e-44c71837d618",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-01-25T12:06:00.000Z",
+          "id": "20cf0154-a878-4d5d-860a-194bbd2c96f2"
+        },
+        {
+          "matchId": "2fe15d3b-faf6-45d8-ab7e-44c71837d618",
+          "type": "Goal Conceded",
+          "playerId": null,
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-01-25T12:07:00.000Z",
+          "id": "357f54d1-e706-4d3d-aa1a-751cf4842d0e"
+        }
+      ],
+      "playerNotes": []
+    },
+    {
+      "seasonId": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "date": "2026-03-08",
+      "opponent": "Cleveland Juniors",
+      "venue": "Neutral",
+      "matchType": "Cup",
+      "playerOfMatch": "a4dd4f26-e7ad-47f7-add7-ffbd8aaf0924",
+      "lineup": [],
+      "completed": true,
+      "phase": "Full Time",
+      "id": "913e3319-7c5f-4ea9-9ec9-8451a6e7e459",
+      "goalsFor": 6,
+      "goalsAgainst": 0,
+      "events": [
+        {
+          "matchId": "913e3319-7c5f-4ea9-9ec9-8451a6e7e459",
+          "type": "Goal",
+          "playerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "assistPlayerId": "a4dd4f26-e7ad-47f7-add7-ffbd8aaf0924",
+          "note": "",
+          "timestamp": "2026-03-08T12:01:00.000Z",
+          "id": "92fe450d-bf34-4021-b6bf-d50e5aa10835"
+        },
+        {
+          "matchId": "913e3319-7c5f-4ea9-9ec9-8451a6e7e459",
+          "type": "Goal",
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "assistPlayerId": "6aa0bda0-961f-44b4-9cd1-c094aa2cd3e1",
+          "note": "",
+          "timestamp": "2026-03-08T12:02:00.000Z",
+          "id": "ddb0dc52-a385-4993-b369-9cf1ae9e6fe1"
+        },
+        {
+          "matchId": "913e3319-7c5f-4ea9-9ec9-8451a6e7e459",
+          "type": "Goal",
+          "playerId": "e0b7ae86-8f1b-4409-9909-f8a64ecbddb5",
+          "assistPlayerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": "",
+          "timestamp": "2026-03-08T12:03:00.000Z",
+          "id": "1e2920d8-8b84-40c4-be15-0a4e2788e086"
+        },
+        {
+          "matchId": "913e3319-7c5f-4ea9-9ec9-8451a6e7e459",
+          "type": "Goal",
+          "playerId": "8b97d621-688d-4c5f-831b-5a0b8a857133",
+          "assistPlayerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "note": "",
+          "timestamp": "2026-03-08T12:04:00.000Z",
+          "id": "0d1950b0-beb5-4bff-a6db-d51070e91507"
+        },
+        {
+          "matchId": "913e3319-7c5f-4ea9-9ec9-8451a6e7e459",
+          "type": "Goal",
+          "playerId": "a4dd4f26-e7ad-47f7-add7-ffbd8aaf0924",
+          "assistPlayerId": "da683bc0-69eb-425c-ae4c-5fa19005f888",
+          "note": "",
+          "timestamp": "2026-03-08T12:05:00.000Z",
+          "id": "80b76c65-fe2f-487b-b1e7-82b70d0452cb"
+        },
+        {
+          "matchId": "913e3319-7c5f-4ea9-9ec9-8451a6e7e459",
+          "type": "Goal",
+          "playerId": "7c8de4b5-4639-49c2-a16a-c220d13dd8a1",
+          "assistPlayerId": null,
+          "note": "",
+          "timestamp": "2026-03-08T12:06:00.000Z",
+          "id": "c23dd884-0194-4b89-8d37-b8a6a7fc964e"
+        }
+      ],
+      "playerNotes": []
+    }
+  ],
+  "seasons": [
+    {
+      "id": "cd88624d-197d-4562-ba75-1c7941df1b6d",
+      "name": "2025/26 - U11s",
+      "ageGroup": "U11",
+      "active": true
+    }
+  ],
+  "teamName": "Seaton Stags"
+}
